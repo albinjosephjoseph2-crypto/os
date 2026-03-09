@@ -1,2 +1,2 @@
 # os
-c profram non preemptive priority cpu scheduling
+c program non preemptive priority cpu scheduling
